@@ -1,4 +1,7 @@
 {
+  "plugins": [
+    "expo-community-flipper"
+  ],
   "expo": {
     "name": "ignite-01-react-native-myskills",
     "slug": "ignite-01-react-native-myskills",
@@ -24,10 +27,25 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.umbrae.ignite01reactnativemyskills"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "androidNavigationBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#121015",
+      "visible": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ffc6dace-afc0-42bb-b0d6-1e83b0666ee7"
+      }
     }
+  },
+  "androidNavigationBar": {
+    "barStyle": "dark-content",
+    "backgroundColor": "#121015"
   }
 }
