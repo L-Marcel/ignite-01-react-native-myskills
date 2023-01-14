@@ -1,6 +1,7 @@
 {
   "translatedDescription": "Um aplicativo criado para treinar os conceitos básicos do desenvolvimento mobile.",
   "technologies": [
-    "React Native"
+    "React Native",
+    "Expo"
   ]
 }

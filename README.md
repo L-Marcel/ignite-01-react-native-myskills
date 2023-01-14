@@ -1,6 +1,6 @@
 <div valing="top">
-  <h1>Ignite: 01 / <span>2022</span> / React Native / MySkills</h1>
-  <p>Um dos projetos da trilha de 2022 de React.js do Ignite</p>
+  <h1>Ignite: 01 / React Native / MySkills</h1>
+  <p>Um dos projetos da trilha de React Native do Ignite</p>
   <nav>
     <div id="repository-buttons"/>
     <a class="navigation-link disabled" href="https://github.com/L-Marcel/ignite-01-react-native-myskills/blob/main/README.en-US.md" target="__blank__">
